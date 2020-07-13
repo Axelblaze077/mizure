@@ -61,6 +61,9 @@
     width: 100%;
   }
 }
+#main-footer {
+  padding-top: 1rem;
+}
 
 @media (max-width: 500px) {
   #showcase {
