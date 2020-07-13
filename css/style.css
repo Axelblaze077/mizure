@@ -76,4 +76,9 @@
   #showcase .showcase-content h3 {
     font-size: 3rem;
   }
+
+  #authors .card .fab {
+    font-size: 25px;
+    padding: 10px;
+  }
 }
